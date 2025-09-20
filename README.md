@@ -27,10 +27,5 @@ Players can participate in the lottery by paying an entry fee, and a random winn
 
 ## 📦 Installation
 
-Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/yourusername/lottery-core-dapp.git
-cd lottery-core-dapp
-npm install
 
