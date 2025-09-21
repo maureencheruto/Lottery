@@ -1,0 +1,28 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "This is a lottery project using hardhat and node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maureencheruto/Lottery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maureencheruto/Lottery/issues"
+  },
+  "homepage": "https://github.com/maureencheruto/Lottery#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0"
+  }
+}
